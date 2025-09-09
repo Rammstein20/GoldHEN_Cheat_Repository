@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God of War Ragnarok (+Valhalla DLC compatibility)" Moder="Pharaoh2k stolen by GoldLocke" Cusa="CUSA34386" Version="06.05" Process="eboot.bin">
   <Genres Name="Adventure" />
-<Items />
+  <Items />
   <Cheat Text="TRAINER INFO (read only)" Description="nPlease be sure to read the comment on each individual cheat, if a comment is available. Enjoy!">
     <Cheatline>
       <Section>0</Section>
